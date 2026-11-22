@@ -1,32 +1,18 @@
+# Hi, I'm Tracy Cross
 
-# Hi, I'm Tracy Cross 👋
+**Product Manager | Workflow & Operations Systems**
 
-**Software Developer | Product-Minded Engineering | Workflow & Business Systems**
-
-I build practical software that makes complex work easier to navigate. My background in veterinary operations leadership informs how I approach product decisions: understand the people doing the work, identify friction in the workflow, and build solutions that hold up beyond the demo.
-
-I'm particularly interested in full-stack applications, thoughtful user experiences, operational analytics, and AI-assisted tools with reliable, testable behavior.
+I spent 15+ years leading corporate veterinary hospitals, finding where the work breaks. Now I define the fix, design it and build it myself. MBA. MS in AI Engineering starting January 2027.
 
 ## What I'm building
 
-- **[MMAC Hub](https://github.com/tracycrossrvt-gif/mmac-hub)** — A Next.js, TypeScript, Supabase, and PostgreSQL application for nonprofit assistance intake and administrative case workflows, including access controls and auditable status changes.
-- **[VetIQ Analytics](https://github.com/tracycrossrvt-gif/VetIQ-Analytics)** — A React analytics dashboard exploring veterinary practice KPIs, trends, and operational decision support.
-- **[Nocturne](https://github.com/tracycrossrvt-gif/streaming-clone)** — A horror-movie discovery application with React, routing, search, and TMDB API integration.
-- **[TaskFlow](https://github.com/tracycrossrvt-gif/taskflow-kanban)** — A React Kanban board featuring drag-and-drop task management and local persistence.
+- **[MMAC Hub](https://github.com/tracycrossrvt-gif/mmac-hub)** - Assistance intake and case management for a nonprofit animal-care program.
+- **[VetBoard](https://github.com/tracycrossrvt-gif/vetboard)** - VTNE study tool used by a vet tech school, hospitals and vet tech groups.
+- **[VetIQ Analytics](https://github.com/tracycrossrvt-gif/vetiq-analytics)** - KPI training dashboard for veterinary practice managers.
+- **[TaskFlow](https://github.com/tracycrossrvt-gif/taskflow-kanban)** - Kanban board for moving work from idea to done.
 
-## Technologies I use
-
-**Languages:** JavaScript, TypeScript, HTML, CSS, SQL  
-**Frontend:** React, Next.js, Tailwind CSS, Vite  
-**Backend & data:** Node.js, Supabase, PostgreSQL, REST APIs  
-**Tools:** Git, GitHub, VS Code, Vercel, Figma
-
-## How I approach development
-
-I start by understanding the real workflow, then translate requirements into usable interfaces, clear data models, and predictable application behavior. I care about authorization, validation, error handling, maintainability, and explaining technical decisions in plain language.
+Want to try one? Clone the repo, then run `npm install` and `npm run dev`.
 
 ## Connect
 
-- **Portfolio:** https://dev-portfolio-woad-seven.vercel.app/
-- **LinkedIn:** https://www.linkedin.com/in/tracy-cross-dev/
-
+[Portfolio](https://dev-portfolio-woad-seven.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/tracy-cross-dev/)
